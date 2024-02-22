@@ -1,0 +1,9 @@
+//this program is used to print HI//
+import Java.io.*;
+class Demo1
+{
+public static void main(String args[])
+{
+System.out.print("HI");
+}//main
+}//Remove
